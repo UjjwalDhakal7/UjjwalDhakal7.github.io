@@ -1,0 +1,28 @@
+* {
+    background-color: #232D3F;
+}
+
+.wrap {
+    color: aliceblue;
+    height: 600px;
+    text-align: left;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+    margin: 0 auto;
+    width: 80%;
+    padding: 20px 0px;
+
+    font-size: 25px;
+    font-weight: 500;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+a {
+    text-decoration: none;
+    background-color:#C5E898;
+    width: fit-content;
+    border-radius: 10px;
+    padding: 5px;
+}
